@@ -78,6 +78,7 @@ Shader "UnlitShadersBooks/Chapter8/AlphaBlend"
                 // 把顶点位置从模型空间转换到裁剪空间
                 o.pos = UnityObjectToClipPos(v.vertex);
 
+
                 // 获得世界空间下法向量方向
                 o.worldNormal = UnityObjectToWorldNormal(v.normal);
 

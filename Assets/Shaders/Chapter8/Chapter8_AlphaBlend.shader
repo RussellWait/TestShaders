@@ -39,6 +39,7 @@ Shader "UnlitShadersBooks/Chapter8/AlphaBlend"
             // CG代码开始
             CGPROGRAM
 
+
             // 定义一个 顶点着色器 和 片元着色器
             #pragma vertex vert
             #pragma fragment frag

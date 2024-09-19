@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chapter8_AlphaBlendMat
-  m_Shader: {fileID: 4800000, guid: 6aec344a04e854b5db75c54af55342a5, type: 3}
+  m_Name: Chapter8_AlphaBlendZWriteMat
+  m_Shader: {fileID: 4800000, guid: bd2f9707569bc42ab852f6ed960ae2c8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
